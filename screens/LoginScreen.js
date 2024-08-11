@@ -76,7 +76,7 @@ const LoginScreen = () => {
     <View className='flex-1 items-center justify-center p-4 mb-10'>
       <Image source={logo} style={styles.logo} />
       <Text className='text-md mb-5'>
-      Connectez-vous pour continuer sur Filacop
+      Connectez-vous pour continuer sur FLATCOP
       </Text>
 
       <View className='w-full flex-row items-center bg-white border border-gray-300 rounded p-2 mb-4'>

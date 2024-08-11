@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StickerSmash",
-    "slug": "StickerSmash",
+    "slug": "flatcop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,8 +26,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "bee173bb-3b23-4e13-b378-e955f78e4914"
+        "projectId": "7649bf56-959c-40d8-a7a6-7329d47d2b79"
       }
-    }
+    },
+    "owner": "ayoub_dev"
   }
 }
