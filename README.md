@@ -34,8 +34,3 @@ Filacop leverages modern technologies to deliver an optimal user experience:
 
 ---
 
-### 🛑 **How to Run the Project**
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/filacop.git
