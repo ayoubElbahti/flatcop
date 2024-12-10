@@ -38,5 +38,10 @@ Filacop leverages modern technologies to deliver an optimal user experience:
 
 ---
 ### Build link :
-https://expo.dev/accounts/ayoub_devv/projects/flatcop/builds/e64155b5-f5ea-404f-ad46-bfc11d58ec19
+
+<p align="left"> 
+   <img src='https://www.cdnlogo.com/logos/e/72/expo-go-app.svg'/>
+   <a href="https://expo.dev/accounts/ayoub_devv/projects/flatcop/builds/e64155b5-f5ea-404f-ad46-bfc11d58ec19
+" target="_blank" rel="noreferrer">
+</a></p>
 
