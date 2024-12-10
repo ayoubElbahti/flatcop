@@ -39,16 +39,18 @@ Filacop leverages modern technologies to deliver an optimal user experience:
 ---
 ### Build link:
 
-<p align="left"> 
+<div class='flex'>
+   <p> 
    <a href="https://expo.dev/accounts/ayoub_devv/projects/flatcop/builds/e64155b5-f5ea-404f-ad46-bfc11d58ec19" target="_blank" rel="noreferrer">
       <img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" alt="Expo Go App" width="50" height="50" />
    </a>
 </p>
 
-<p align="left">  
+<p >  
    <a href="https://expo.dev/accounts/ayoub_devv/projects/flatcop/builds/e64155b5-f5ea-404f-ad46-bfc11d58ec19" target="_blank" rel="noreferrer">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50" />
    </a>
 </p>
+</div>
 
 
