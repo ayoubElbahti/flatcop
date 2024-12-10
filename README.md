@@ -37,5 +37,6 @@ Filacop leverages modern technologies to deliver an optimal user experience:
 ![image](https://github.com/user-attachments/assets/556c13f1-b999-4002-8006-3b232c6db026)
 
 ---
-### Demo :
+### Build link :
+https://expo.dev/accounts/ayoub_devv/projects/flatcop/builds/e64155b5-f5ea-404f-ad46-bfc11d58ec19
 
