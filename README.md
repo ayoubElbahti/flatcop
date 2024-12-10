@@ -13,8 +13,7 @@ Filacop is a robust and user-friendly mobile application designed to streamline 
 ### 🛠️ **Technologies Used**
 Filacop leverages modern technologies to deliver an optimal user experience:
 
-- **React Native (Expo)**   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50" />
-: For building a high-performance cross-platform mobile application.
+- **React Native (Expo)**: For building a high-performance cross-platform mobile application.
 - **NativeWind**: To integrate and streamline Tailwind CSS in a mobile environment.
 - **REST API**: For seamless communication between the app and backend systems.
 
@@ -38,13 +37,14 @@ Filacop leverages modern technologies to deliver an optimal user experience:
 ![image](https://github.com/user-attachments/assets/556c13f1-b999-4002-8006-3b232c6db026)
 
 ---
-### Build link + Technologies used :
+### Build link:
 
 <div align="left"> 
    <!-- Expo Go App -->
    <a href="https://expo.dev/accounts/ayoub_devv/projects/flatcop/builds/e64155b5-f5ea-404f-ad46-bfc11d58ec19" target="_blank" rel="noreferrer">
       <img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" alt="Expo Go App" width="50" height="50" />
    </a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50" />
    <img src="https://www.vectorlogo.zone/logos/rest_api/rest_api-icon.svg" alt="REST API" width="50" height="50" />
 </div>
 
